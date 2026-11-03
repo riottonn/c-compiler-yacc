@@ -1,0 +1,6 @@
+compiler
+parser.tab.c
+parser.tab.h
+lexer.yy.c
+output.py
+visualizer/ast.json
